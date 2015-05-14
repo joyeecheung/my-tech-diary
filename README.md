@@ -11,7 +11,7 @@ Things to keep an eye on and some notes.
   * Web server architecture
   * New CSS layout techniques (grid, column, flex)
   * TypeScript
-  * MVV*
+  * MV*
 * [May](2015/05)
   * Microsoft Edge, EdgeHTML and the new Chakra
   * ECMAScript 6
