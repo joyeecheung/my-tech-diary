@@ -19,3 +19,20 @@ Things to keep an eye on and some notes.
   * PostCSS
   * JavaScript JIT
   * React
+  * Rust
+  * Three.js and Graphics
+  * Dart
+  * Web font
+* [Jun.](2015/06)
+  * SPDY & HTTP/2
+  * Material Design
+  * ECMAScript 6
+  * Three.js and Graphics
+  * React & Flux
+  * Functional Reactive Programming
+  * CSS4
+  * Web Components, Shadow DOM & Polymer
+  * History(about ES4/5, CSS3, jQuery, Modular JS)
+  * WebAssembly
+  * Selenium
+  * Web Workers, Web Audio API
