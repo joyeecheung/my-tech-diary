@@ -41,3 +41,20 @@ Things to keep an eye on and some notes.
 * WebAssembly
 * Selenium
 * Web Workers, Web Audio API
+
+#### [Jul.](2015/07)
+
+* Graphics
+* Data Visualization
+* Polymer & Web Components
+* Same-Origin Policy
+* SVG
+* ES6
+
+#### [Aug.](2015/08)
+
+* Koa
+* Promises
+* ES6
+* C++
+* JS Engines
