@@ -58,3 +58,4 @@ Things to keep an eye on and some notes.
 * ES6
 * C++
 * JS Engines
+* SVG
