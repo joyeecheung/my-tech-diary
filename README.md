@@ -54,7 +54,7 @@ Things to keep an eye on and some notes.
 #### [Aug.](2015/08)
 
 * Koa
-* Promises
+* Promises, generators, async/await
 * ES6
 * C++
 * JS Engines
